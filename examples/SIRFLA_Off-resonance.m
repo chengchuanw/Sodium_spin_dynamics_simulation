@@ -1,5 +1,7 @@
 % This script is an example demonstrating the use of SBE for the SIRFLA off-resonance effect
-% simulation. The simulation is similar to the one originally performed in Feldman et al 2013.
+% simulation. The simulation is similar to the one originally performed in 
+% Rebecca E. Feldman, Robert Stobbe, Alexander Watts, Christian Beaulieu, Sodium imaging of the human knee 
+% using soft inversion recovery fluid attenuation (2013)
 
 clear; 
 
