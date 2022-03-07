@@ -1,5 +1,7 @@
 % This script is an example demonstrating the use of SBE for the SIRFLA simulation,
-% which is a sequence proposed in Stobbe and Beaulieu 2005.
+% which is a sequence proposed in 
+% Stobbe and Beaulieu, In Vivo Sodium Magnetic Resonance Imaging of the
+% Human Brain Using Soft Inversion Recovery Fluid Attenuation (2005).
 
 clear; 
 
