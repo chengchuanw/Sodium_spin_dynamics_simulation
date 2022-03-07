@@ -1,5 +1,7 @@
 % This script is an example demonstrating the use of SBE for the WURST IR simulation.
-% The WURST IR for 23Na was published in Madelin et al 2010. 
+% The WURST IR for 23Na was published in 
+% Guillaume Madelin, Jae-Seung Lee, Souheil Inati, Alexej Jerschow, Ravinder R. Regatte,
+% Sodium inversion recovery MRI of the knee joint in vivo at 7T (2010)
 
 clear; 
 
