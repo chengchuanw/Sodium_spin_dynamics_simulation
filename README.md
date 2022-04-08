@@ -1,5 +1,6 @@
 # SBE: Spin-3/2 Bloch Equation
 SBE is an ISTO-based description of spin-3/2 nuclei, such as 23Na, in biological tissue.
+
 *SBE.m* calculates the integral of SBE using MATLAB solver *ode45*.
 
 ## References
