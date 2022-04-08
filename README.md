@@ -5,11 +5,10 @@
 
 [The Melbourne Brain Centre Imaging Unit (MBCIU) repository](https://github.com/MBCIU/Sodium_spin_dynamics_simulation) is the official SBE repository. 
 
-[This](https://github.com/chengchuanw/Sodium_spin_dynamics_simulation/blob/master/Supporting_Information_to%20_Sodium_Spin_Dynamics_ISMRM_2021_Abstract.pdf) is the supporting information for the ISMRM 2021 abstract.
+[This](https://github.com/chengchuanw/Sodium_spin_dynamics_simulation/blob/master/Supporting_Information_to%20_Sodium_Spin_Dynamics_ISMRM_2021_Abstract.pdf) is the supporting information for the ISMRM 2021 abstract ([link to the presentation](https://ismrm-smrt21.us3.pathable.com/meetings/virtual/poster/seTs7kjDkPdJpeo2E)).
 
 **SBE reference:** 
 * C. Wu, Y. Blunck, L. A. Johnston, *The ‘Spin-3/2 Bloch Equation’: System matrix formalism of excitation, relaxation and off-resonance effects in biological tissue, 2022*
-* C. Wu, Y. Blunck, L. A. Johnston, *A simulator for 23Na Dynamics in Biological Tissue, ISMRM, 2021*
 
 **See also:** 
 * I. Hancu, J. van der Maarel, F. E. Boada, *A model for the dynamics of spins 3/2 in biological media: Signal loss during radiofrequency excitation in triple-quantum-filtered sodium MRI, 2000*
