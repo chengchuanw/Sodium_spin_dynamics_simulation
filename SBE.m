@@ -41,7 +41,7 @@ function ISTO = SBE(sample, seq, sim, version, outputform)
 %Authur:        Chengchuan Wu (chengchuanw@student.unimelb.edu.au)
 %Institution:   The University of Melbourne
 %Reference:     Chengchuan Wu, Yasmin Blunck, Leigh A. Johnston, 
-%               The ‘Spin-3/2 Bloch Equation’: System matrix formalism of excitation, relaxation and off-resonance effects in biological tissue (in press)
+%               The ‘Spin-3/2 Bloch Equation’: System matrix formalism of excitation, relaxation and off-resonance effects in biological tissue, 2022
 
 
 if nargin < 4
