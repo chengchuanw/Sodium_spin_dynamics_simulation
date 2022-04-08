@@ -3,8 +3,13 @@ SBE is an ISTO-based description of spin-3/2 nuclei, such as 23Na, in biological
 
 *SBE.m* calculates the integral of SBE using MATLAB solver *ode45*.
 
+[The Melbourne Brain Centre Imaging Unit (MBCIU) repository](https://github.com/MBCIU/Sodium_spin_dynamics_simulation) is the official SBE repository. 
+
+
+
 ## References
-**SBE reference:** C. Wu, Y. Blunck, L. A. Johnston, *The ‘Spin-3/2 Bloch Equation’: System matrix formalism of excitation, relaxation and off-resonance effects in biological tissue (in press)*
+**SBE reference:** 
+* C. Wu, Y. Blunck, L. A. Johnston, *The ‘Spin-3/2 Bloch Equation’: System matrix formalism of excitation, relaxation and off-resonance effects in biological tissue (in press)*
 
 **See also:** 
 * I. Hancu, J. van der Maarel, F. E. Boada, *A model for the dynamics of spins 3/2 in biological media: Signal loss during radiofrequency excitation in triple-quantum-filtered sodium MRI, 2000*
